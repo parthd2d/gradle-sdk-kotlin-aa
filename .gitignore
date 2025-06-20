@@ -24,5 +24,3 @@ log/
 out/
 
 bstack_build_*/
-
-gradle/wrapper/gradle-wrapper.jar
