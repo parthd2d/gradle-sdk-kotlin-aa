@@ -1,0 +1,14 @@
+userName: BROWSERSTACK_USERNAME
+accessKey: BROWSERSTACK_ACCESS_KEY
+app: BROWSERSTACK_APP_ID
+framework: junit5
+platforms:
+  - platformName: android
+    osVersion: 12.0
+    deviceName: Google Pixel 6
+  - platformName: android
+    osVersion: 12.0
+    deviceName: Google Pixel 6 Pro
+buildIdentifier: ${BUILD_NUMBER}
+projectName: "Kotlin-Gradle SDK Int"
+buildName: "gradle-kotlin-sdk-build"

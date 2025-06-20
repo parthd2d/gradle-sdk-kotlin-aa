@@ -1,0 +1,28 @@
+# IntelliJ / Android Studio project files
+*.iml
+.idea/
+
+# Gradle
+.gradle/
+/build/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+
+# Local configuration files
+local.properties
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+log/
+
+# Kotlin build output (optional)
+out/
+
+bstack_build_*/
+
+gradle/wrapper/gradle-wrapper.jar
